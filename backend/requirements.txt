@@ -10,7 +10,7 @@ djangorestframework==3.12.4
 djangorestframework-jwt==1.11.0
 drf-extensions==0.7.0
 drf-haystack==1.8.10
-Pillow==8.2.0
+Pillow==9.3.0
 py3Fdfs==2.2.0
 PyJWT==1.7.1
 PyMySQL==1.0.2
